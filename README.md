@@ -1,1 +1,1 @@
-# apply-filters-to-sql-queries
+# Applying Filters to SQL Queries
